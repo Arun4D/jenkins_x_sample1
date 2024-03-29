@@ -6,10 +6,10 @@ spec:
     schedule: ""
   cluster:
     chartRepository: http://bucketrepo.jx.svc.cluster.local/bucketrepo/charts
-    clusterName: kind
+    clusterName: "docker-desktop"
     devEnvApprovers:
     - todo
-    environmentGitOwner: todo
+    environmentGitOwner: arun4d
     gitKind: github
     gitName: github
     gitServer: https://github.com
